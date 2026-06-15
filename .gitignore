@@ -1,0 +1,13 @@
+__pycache__/
+
+*.pbix
+*.pbit
+
+.env
+
+.vscode/
+
+*.log
+
+.DS_Store
+data/
